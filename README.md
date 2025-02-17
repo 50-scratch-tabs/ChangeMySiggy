@@ -1,0 +1,1 @@
+This is a website to easily allow you to provide anyone a link to change their signature on the [Scratch forums](https://scratch.mit.edu/discuss). You can [try it now](https://50-scratch-tabs.github.io/ChangeMySiggy), or [read more about why it's necessary](https://50-scratch-tabs.github.io/ChangeMySiggy/whatisthis.html).
